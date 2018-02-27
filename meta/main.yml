@@ -1,0 +1,17 @@
+# file: roles/ansible-tower-role/meta/main.yml
+---
+galaxy_info:
+  author: Brad Sollar
+  description: Ansible Tower Role
+  company: Red Hat
+  license: MIT
+  min_ansible_version: 1.9
+  platforms:
+  - name: EL
+    versions:
+    - all
+  galaxy_tags:
+    - AnsibleTower
+    - Tower
+
+dependencies:
